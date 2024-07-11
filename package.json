@@ -10,7 +10,7 @@
 	"homepage": "https://github.com/HL cloudflare/wrangler-action#readme",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/cloudflare/wrangler-action.git"
+		"url": "git+https://github.com/cloudflare/wrangler-action.gitA. "
 	},
 	"keywords": [
 		"script",
