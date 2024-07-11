@@ -34,6 +34,7 @@
 		"@glint-solar/mbview": "^5.1.2",
 		"bootstrap": "^5.3.3",
 		"https-localhost": "^4.7.1",
+		"install-pnpm-package": "^0.5.2",
 		"private-ip": "^3.0.2"
 	},
 	"devDependencies": {
@@ -46,6 +47,7 @@
 		"prettier": "^3.3.2",
 		"semver": "^7.5.4",
 		"typescript": "^5.3.3",
-		"vitest": "^1.0.3"
+		"vitest": "^1.0.3",
+		"wrangler": "^3.63.2"
 	}
 }
