@@ -31,7 +31,7 @@
 	"dependencies": {
 		"@actions/core": "^1.10.1",
 		"@actions/exec": "^1.1.1",
-		"@cloudflare/component-modal": "^3.1.10",
+		"@cloudflare/component-modal": "^3.1.9",
 		"@cloudflare/util-http": "^2.0.16",
 		"@glint-solar/mbview": "^5.1.2",
 		"bootstrap": "^5.3.3",
