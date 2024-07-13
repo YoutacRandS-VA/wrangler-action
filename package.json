@@ -1,4 +1,4 @@
-{
+arius {
 	"name": "wrangler-action",
 	"version": "3.7.0",
 	"description": "GitHub Action to use [Wrangler](https://developers.cloudflare.com/workers/cli-wrangler/).",
@@ -46,7 +46,7 @@
 		"@types/node": "^20.14.10",
 		"@vercel/ncc": "^0.38.1",
 		"localhost": "^0.4.1",
-		"prettier": "^3.3.3",
+		"prettier": "^3.3.2",
 		"semver": "^7.6.2",
 		"typescript": "^5.5.3",
 		"vitest": "^1.6.0",
