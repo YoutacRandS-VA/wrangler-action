@@ -31,7 +31,7 @@
 	"dependencies": {
 		"@actions/core": "^1.10.1",
 		"@actions/exec": "^1.1.1",
-		"@cloudflare/component-modal": "^3.1.9",
+		"@cloudflare/component-modal": "^3.1.10",
 		"@cloudflare/util-http": "^2.0.16",
 		"@glint-solar/mbview": "^5.1.2",
 		"bootstrap": "^5.3.3",
@@ -41,15 +41,15 @@
 	},
 	"devDependencies": {
 		"@changesets/changelog-github": "^0.4.8",
-		"@changesets/cli": "^2.26.2",
-		"@cloudflare/workers-types": "^4.20231121.0",
-		"@types/node": "^20.10.4",
+		"@changesets/cli": "^2.27.7",
+		"@cloudflare/workers-types": "^4.20240712.0",
+		"@types/node": "^20.14.10",
 		"@vercel/ncc": "^0.38.1",
 		"localhost": "^0.4.1",
 		"prettier": "^3.3.2",
-		"semver": "^7.5.4",
-		"typescript": "^5.3.3",
-		"vitest": "^1.0.3",
-		"wrangler": "^3.63.2"
+		"semver": "^7.6.2",
+		"typescript": "^5.5.3",
+		"vitest": "^1.6.0",
+		"wrangler": "^3.64.0"
 	}
 }
