@@ -394,6 +394,11 @@
   resolved "https://registry.npmjs.org/@cloudflare/workerd-linux-64/-/workerd-linux-64-1.20240701.0.tgz"
   integrity sha512-UWLr/Anxwwe/25nGv451MNd2jhREmPt/ws17DJJqTLAx6JxwGWA15MeitAIzl0dbxRFAJa+0+R8ag2WR3F/D6g==
 
+"@cloudflare/workerd-linux-64@1.20240806.0":
+  version "1.20240806.0"
+  resolved "https://registry.npmjs.org/@cloudflare/workerd-linux-64/-/workerd-linux-64-1.20240806.0.tgz"
+  integrity sha512-/149Bpxw4e2p5QqnBc06g0mx+4sZYh9j0doilnt0wk/uqYkLp0DdXGMQVRB74sBLg2UD3wW8amn1w3KyFhK2tQ==
+
 "@cloudflare/workers-types@^4.20240620.0", "@cloudflare/workers-types@^4.20240712.0":
   version "4.20240712.0"
   resolved "https://registry.npmjs.org/@cloudflare/workers-types/-/workers-types-4.20240712.0.tgz"
@@ -5799,6 +5804,24 @@ mimic-response@^3.1.0:
   resolved "https://registry.npmjs.org/mimic-response/-/mimic-response-3.1.0.tgz"
   integrity sha512-z0yWI+4FDrrweS8Zmt4Ej5HdJmky15+L2e6Wgn3+iK5fWzb6T3fhNFq2+MeTRb064c6Wr4N/wv0DzQTjNzHNGQ==
 
+miniflare@^3.20240806.0:
+  version "3.20240806.0"
+  resolved "https://registry.npmjs.org/miniflare/-/miniflare-3.20240806.0.tgz"
+  integrity sha512-jDsXBJOLUVpIQXHsluX3xV0piDxXolTCsxdje2Ex2LTC9PsSoBIkMwvCmnCxe9wpJJCq8rb0UMyeEn3KOF3LOw==
+  dependencies:
+    "@cspotcode/source-map-support" "0.8.1"
+    acorn "^8.8.0"
+    acorn-walk "^8.2.0"
+    capnp-ts "^0.7.0"
+    exit-hook "^2.2.1"
+    glob-to-regexp "^0.4.1"
+    stoppable "^1.1.0"
+    undici "^5.28.4"
+    workerd "1.20240806.0"
+    ws "^8.17.1"
+    youch "^3.2.2"
+    zod "^3.22.3"
+
 miniflare@3.20240701.0:
   version "3.20240701.0"
   resolved "https://registry.npmjs.org/miniflare/-/miniflare-3.20240701.0.tgz"
@@ -8528,6 +8551,17 @@ workerd@1.20240701.0:
     "@cloudflare/workerd-linux-64" "1.20240701.0"
     "@cloudflare/workerd-linux-arm64" "1.20240701.0"
     "@cloudflare/workerd-windows-64" "1.20240701.0"
+
+workerd@1.20240806.0:
+  version "1.20240806.0"
+  resolved "https://registry.npmjs.org/workerd/-/workerd-1.20240806.0.tgz"
+  integrity sha512-yyNtyzTMgVY0sgYijHBONqZFVXsOFGj2jDjS8MF/RbO2ZdGROvs4Hkc/9QnmqFWahE0STxXeJ1yW1yVotdF0UQ==
+  optionalDependencies:
+    "@cloudflare/workerd-darwin-64" "1.20240806.0"
+    "@cloudflare/workerd-darwin-arm64" "1.20240806.0"
+    "@cloudflare/workerd-linux-64" "1.20240806.0"
+    "@cloudflare/workerd-linux-arm64" "1.20240806.0"
+    "@cloudflare/workerd-windows-64" "1.20240806.0"
 
 wrangler@^3.64.0:
   version "3.64.0"

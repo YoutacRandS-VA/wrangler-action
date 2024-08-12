@@ -1,4 +1,4 @@
-{
+{  
 	"name": "wrangler-action",
 	"version": "3.7.0",
 	"description": "GitHub Action to use [Wrangler](https://developers.cloudflare.com/workers/cli-wrangler/).",
@@ -46,6 +46,7 @@
 		"@types/node": "^20.14.10",
 		"@vercel/ncc": "^0.38.1",
 		"localhost": "^0.4.1",
+		"miniflare": "^3.20240806.0",
 		"prettier": "^3.3.3",
 		"semver": "^7.6.2",
 		"typescript": "^5.5.3",
