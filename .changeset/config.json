@@ -4,10 +4,10 @@
 		"@changesets/changelog-github",
 		{ "repo": "cloudflare/wrangler-action" }
 	],
-	"commit": false,
+	"commit": true,
 	"linked": [],
 	"access": "public",
-	"baseBranch": "main",
+	"baseBranch": "master",
 	"updateInternalDependencies": "patch",
 	"ignore": []
 }
