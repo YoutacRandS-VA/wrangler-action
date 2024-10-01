@@ -39,6 +39,7 @@
 		"https-localhost": "^4.7.1",
 		"install-pnpm-package": "^0.5.2",
 		"private-ip": "^3.0.2",
+		"uuid": "^10.0.0",
 		"wrangler-proxy": "^2.2.7"
 	},
 	"devDependencies": {
