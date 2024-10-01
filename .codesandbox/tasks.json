@@ -12,7 +12,7 @@
 		"build": {
 			"name": "build",
 			"command": "npm run build",
-			"runAtStart": false
+			"runAtStart": true
 		},
 		"test": {
 			"name": "test",
@@ -22,12 +22,12 @@
 		"format": {
 			"name": "format",
 			"command": "npm run format",
-			"runAtStart": false
+			"runAtStart": true
 		},
 		"check": {
 			"name": "check",
 			"command": "npm run check",
-			"runAtStart": false
+			"runAtStart": true
 		}
 	}
 }
