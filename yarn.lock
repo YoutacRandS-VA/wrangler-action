@@ -8535,6 +8535,11 @@ workerd@1.20240925.0:
     "@cloudflare/workerd-linux-arm64" "1.20240925.0"
     "@cloudflare/workerd-windows-64" "1.20240925.0"
 
+wrangler-proxy@^2.2.7:
+  version "2.2.7"
+  resolved "https://registry.npmjs.org/wrangler-proxy/-/wrangler-proxy-2.2.7.tgz"
+  integrity sha512-5s3Vou6LipuXBwHLSSx2P5SqtRXoQooVCxMU132ZrYUSHlMF/UeAGMkR8JnVAyvJhOKzuVJ3YmI+STNFbYncOw==
+
 wrangler@^3.78.12:
   version "3.78.12"
   resolved "https://registry.npmjs.org/wrangler/-/wrangler-3.78.12.tgz"
