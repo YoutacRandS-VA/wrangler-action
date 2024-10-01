@@ -328,7 +328,7 @@
   resolved "https://registry.npmjs.org/@cloudflare/intl-types/-/intl-types-1.5.5.tgz"
   integrity sha512-OEL/D6mDKSbwd4oBGwQXejJausu1be/RxM/cFMZQPQKR1m7AwR2R7VRKSj6ldstCuL30MYPl16zx2RRy1YA9Xg==
 
-"@cloudflare/kv-asset-handler@0.3.4":
+"@cloudflare/kv-asset-handler@^0.3.4", "@cloudflare/kv-asset-handler@0.3.4":
   version "0.3.4"
   resolved "https://registry.npmjs.org/@cloudflare/kv-asset-handler/-/kv-asset-handler-0.3.4.tgz"
   integrity sha512-YLPHc8yASwjNkmcDMQMY35yiWjoKAKnhUbPRszBRS0YgH+IXtsMp61j+yTcnCE3oO2DgP0U3iejLC8FTtKDC8Q==
